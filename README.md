@@ -16,3 +16,6 @@ Changes in this version:
 
 
 Vimeo case-study films are displayed using Vimeo's embedded player rather than linking visitors to the Vimeo page, so the portfolio keeps visitors on the site.
+
+
+The homepage includes a concise recent-work section covering Dan Smith’s Managing Director role at The Pharm/WPP and selected Boots outcomes.
