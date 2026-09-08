@@ -43,3 +43,12 @@ footer{max-width:var(--max);margin:auto;padding:35px 28px 55px;display:flex;just
 
 @media(max-width:1000px){.wpp-highlights{grid-template-columns:1fr 1fr}.wpp-card-large{grid-column:span 2}}
 @media(max-width:800px){.recent-wpp{padding:15px 20px 75px}.recent-wpp-inner{padding:45px 25px}.recent-wpp-head{margin-bottom:35px}.wpp-highlights{grid-template-columns:1fr}.wpp-card-large{grid-column:auto}.wpp-card{min-height:180px}.wpp-capabilities{justify-content:flex-start;gap:10px}.wpp-capabilities i{display:none}}
+
+
+/* Iceless Bucket case-study image */
+.iceless-case-study .iceless-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 2rem;
+}
