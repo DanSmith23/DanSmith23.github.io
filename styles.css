@@ -48,7 +48,7 @@ footer{max-width:var(--max);margin:auto;padding:35px 28px 55px;display:flex;just
 /* Iceless Bucket case-study image */
 .iceless-case-study .iceless-image {
   display: block;
-  width: 100%;
+  width: 50%;
   height: auto;
   margin-top: 2rem;
 }
