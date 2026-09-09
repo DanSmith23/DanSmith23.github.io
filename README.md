@@ -24,3 +24,6 @@ The homepage includes a concise recent-work section covering Dan Smith’s Manag
 
 
 Updated WPP section with aligned editorial container, inline SVG icons, and highlight cards.
+
+
+Updated with YouTube film links for the eBay Christmas and lastminute.com.au case studies.

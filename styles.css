@@ -52,3 +52,19 @@ footer{max-width:var(--max);margin:auto;padding:35px 28px 55px;display:flex;just
   height: auto;
   margin-top: 2rem;
 }
+
+
+/* Additional legacy work sections */
+.legacy-work{margin-bottom:20px}
+.legacy-case{margin-top:0;align-items:start}
+.legacy-list{display:flex;flex-direction:column;border-left:1px solid var(--line)}
+.legacy-list>div{display:grid;grid-template-columns:48px 1fr;gap:16px;padding:20px 0 20px 24px;border-bottom:1px solid var(--line)}
+.legacy-list>div>span{font-size:12px;color:var(--blue);font-weight:700}
+.legacy-list strong{font-size:19px;display:block}
+.legacy-list small{display:block;color:var(--muted);margin-top:5px;max-width:600px}
+.legacy-list a{display:inline-block;margin-top:11px;font-weight:700;text-decoration:none;border-bottom:2px solid var(--blue);padding-bottom:2px}
+.legacy-feature{background:var(--pale);padding:42px 38px;min-height:100%}
+.legacy-stat{font-size:clamp(42px,5vw,70px);font-weight:800;line-height:.88;letter-spacing:-.05em;margin-bottom:28px}
+@media(max-width:800px){.legacy-case{grid-template-columns:1fr}.legacy-feature{padding:35px 25px}.legacy-list>div{padding-left:18px}}
+
+.film-links{display:flex;flex-wrap:wrap;gap:14px;margin-top:14px}
